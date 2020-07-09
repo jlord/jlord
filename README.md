@@ -1,4 +1,4 @@
-# hi, hi!
+### Hello, there!
 
 Link exchange with friends<sup>[?](https://github.com/jlord/jlord/blob/master/LINK_EXCHANGE.md)</sup>:
 
